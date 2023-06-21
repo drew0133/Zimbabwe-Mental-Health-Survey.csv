@@ -24,3 +24,6 @@ The dashboard includes information about:
 -Occupation distribution by participants.
 
 Datasoruce: https://lnkd.in/dUPy6JsC
+
+![image](https://github.com/drew0133/Zimbabwe-Mental-Health-Survey.csv/assets/52416307/fb2afc7d-e8ef-4d17-9049-470b6093c946)
+
