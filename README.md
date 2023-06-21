@@ -25,5 +25,5 @@ The dashboard includes information about:
 
 Datasoruce: https://lnkd.in/dUPy6JsC
 
-![image](https://github.com/drew0133/Zimbabwe-Mental-Health-Survey.csv/assets/52416307/fb2afc7d-e8ef-4d17-9049-470b6093c946)
 
+![Mental Health](https://github.com/drew0133/Zimbabwe-Mental-Health-Survey.csv/assets/52416307/41073b45-a457-4c23-81ad-ef4ee59f625e)
